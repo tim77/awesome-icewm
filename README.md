@@ -4,7 +4,7 @@ Various themes, configs, tweaks and more for IceWM.
 
 🥶 IceWM is a window manager for the X Window System.
 
-- 🔗 [Home page](https://ice-wm.org)
+- 🏠 [Home page](https://ice-wm.org)
 - 🔗 [GitHub](https://github.com/bbidulock/icewm)
 - 🐞 [Report bugs](https://github.com/bbidulock/icewm/issues)
 
@@ -25,6 +25,8 @@ Links with various packaging examples where you can send PR to help improve thin
 - [Arch Linux](https://git.archlinux.org/svntogit/packages.git/tree/trunk/PKGBUILD?h=packages/icewm)
 - [Fedora](https://src.fedoraproject.org/rpms/icewm/blob/master/f/icewm.spec)
 - [openSUSE Factory](https://build.opensuse.org/package/view_file/openSUSE:Factory/icewm/icewm.spec?expand=1)
+
+🔗 [Packaging status](https://repology.org/project/icewm/versions)
 
 ## Themes
 
