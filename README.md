@@ -1,2 +1,5 @@
 # awesome-icewm
-Themes, configs, tweaks and more for IceWM
+
+Various themes, configs, tweaks and more for IceWM.
+
+## ⚠️🏗 Work in progress
