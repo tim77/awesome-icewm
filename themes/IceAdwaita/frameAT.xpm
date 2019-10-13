@@ -2,9 +2,9 @@
 static char * frameAT_xpm[] = {
 "1 3 4 1",
 " 	c None",
-".	c #516DB2",
-"+	c #899DCC",
-"@	c #4661A8",
+".	c #247AE2",
+"+	c #4C92E7",
+"@	c #1E74DE",
 ".",
 "+",
 "@"};
