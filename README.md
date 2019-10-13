@@ -2,7 +2,21 @@
 
 Various themes, configs, tweaks and more for IceWM.
 
+🥶 IceWM is a window manager for the X Window System.
+
+- 🔗 [Home page](https://ice-wm.org)
+- 🔗 [GitHub](https://github.com/bbidulock/icewm)
+- 🐞 [Report bugs](https://github.com/bbidulock/icewm/issues)
+
 ### ⚠️🏗 Work in progress
+
+## Chats
+
+### Matrix
+
+- [Group](https://matrix.to/#/+icewm:matrix.org)
+- [Chat En](https://matrix.to/#/#icewm:matrix.org)
+- [Chat Ru](https://matrix.to/#/#icewm-ru:matrix.org)
 
 ## Distribuition
 
