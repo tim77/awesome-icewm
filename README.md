@@ -18,6 +18,11 @@ Various themes, configs, tweaks and more for IceWM.
 - [Chat En](https://matrix.to/#/#icewm:matrix.org)
 - [Chat Ru](https://matrix.to/#/#icewm-ru:matrix.org)
 
+### Telegram
+
+- [Chat En](https://t.me/icewm)
+- [Chat Ru](https://t.me/icewm_ru)
+
 ## Distribuition
 
 Links with various packaging examples where you can send PR to help improve things or find something usefull.
