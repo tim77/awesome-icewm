@@ -7,6 +7,7 @@ Various themes, configs, tweaks and more for IceWM.
 - 🏠 [Home page](https://ice-wm.org)
 - 🔗 [GitHub](https://github.com/bbidulock/icewm)
 - 🐞 [Report bugs](https://github.com/bbidulock/icewm/issues)
+- 🎨 [Themes](https://www.box-look.org/browse/cat/142/order/latest/)
 
 ### ⚠️🏗 Work in progress
 
@@ -48,3 +49,4 @@ Good, popular and high rated themes.
 ### Light + Dark
 
 - [Araita](https://www.box-look.org/p/1321163/)
+- [IceAdwaita](https://github.com/tim77/awesome-icewm/tree/master/themes/IceAdwaita) [WIP] (only light version for now)
