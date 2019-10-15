@@ -40,6 +40,7 @@ Good, popular and high rated themes.
 
 ### Ligth
 
+- [IceAdwaita](https://github.com/tim77/awesome-icewm/tree/master/themes/IceAdwaita-Medium)
 - [IceClearlooks2](https://www.box-look.org/p/1310273/)
 - [KDE-Core](https://www.box-look.org/p/1266477/)
 - [Vin7](https://www.box-look.org/p/1163246/)
@@ -48,5 +49,6 @@ Good, popular and high rated themes.
 
 ### Light + Dark
 
+- [AntiX-collection](https://github.com/tim77/awesome-icewm/tree/master/themes/AntiX-collection)
 - [Araita](https://www.box-look.org/p/1321163/)
-- [IceAdwaita](https://github.com/tim77/awesome-icewm/tree/master/themes/IceAdwaita) [WIP] (only light version for now)
+- [IceAdwaita-Dark](https://github.com/tim77/awesome-icewm/tree/master/themes/IceAdwaita-Dark-Medium%20(alpha))
