@@ -1,0 +1,144 @@
+
+# --------------------
+# What and Who
+# --------------------
+ThemeDescription="Clearview Orange Small theme"
+ThemeAuthor="SamK"
+# Based on elements of NiceKristall by Daniel Schneider, John Fregeau
+
+
+# --------------------
+# Global
+# --------------------
+#Look=pixmap				# Use raised buttons
+Look=metal				# Use flat buttons
+
+RolloverButtonsSupported=0		# Change the look of buttons on pointer-over
+
+BorderSizeX=1				# Window border horizontal
+BorderSizeY=1				# Window border vertical
+ColorNormalBorder="#C0C0C0"
+ColorActiveBorder="#212832"
+
+DlgBorderSizeX=1			# Dialog window border horizontal
+DlgBorderSizeY=1			# Dialog window border vertical
+ColorDialog="#000000"
+
+CornerSizeX=10				# Resize corner width horizontal 
+CornerSizeY=10				# Resize corner width vertical 
+
+MenuIconSize=16		                # Menu
+SmallIconSize=16 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=24			# Quickswitch window
+HugeIconSize=32				# ?  Cannot identify what it applies to
+
+
+# --------------------
+# TitleBar
+# --------------------
+TitleBarHeight=22
+ColorActiveTitleBar="#C0C0C0"		# Defaults to using titleAB.xpm, titleAS.xpm, titleAT.xpm if present
+ColorNormalTitleBar="#C0C0C0"		# Defaults to using titleIB.xpm, titleIS.xpm, titleIT.xpm if present
+
+TitleBarJustify=50			# Offset text from left edge, 50=centre text
+TitleFontNameXft="sans:size=10:italic:bold"
+ColorActiveTitleBarText="#FFFFFF"
+ColorNormalTitleBarText="#000000"
+
+TitleButtonsSupported="xmis"		# Close, Maximize, Minimize, menuButton
+TitleButtonsRight="xmi"
+ColorActiveTitleButton="#3980F4"	# Defaults to using menuButtonA.xpm if present
+ColorNormalTitleButton="#80A5E7"	# Defaults to using menuButtonI.xpm if present 
+#ColorActiveTitleButtonText="#FFFFFF"	# Use application icon on menuButton 
+#ColorNormalTitleButtonText="#FFFFFF"	# Use application icon on menuButton
+
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image
+
+
+# --------------------
+# TaskBar
+# --------------------
+#ColorDefaultTaskBar="#3980F4"		# Defaults to using taskbarbg.xpm if present
+
+#ColorToolButton="#3980F4"		# Background colour of start, show-desktop buttons etc, on taskbar
+#ToolButtonFontNameXft="sans:size=10"
+#ColorToolButtonText="#000000"
+
+ActiveButtonFontNameXft="sans:size=10"  # Font size of active buttons (excl app buttons) 
+NormalButtonFontNameXft="sans:size=10"	# Font size of inactive buttons (excl app buttons) 
+
+#ColorActiveWorkspaceButton="#3980F4"	# Defaults to using taskbuttonactive.xpm if present
+#ActiveWorkspaceFontNameXft="sans:size=10" # Use ActiveButtonFontNameXft
+ColorActiveWorkspaceButtonText="#000000"
+
+#ColorNormalWorkspaceButton="#3980F4"	# Defaults to using taskbuttonbg.xpm if present
+#NormalWorkspaceFontNameXft="sans:size=10" # Use NormalButtonFontNameXft
+ColorNormalWorkspaceButtonText="#000000"
+
+#ColorActiveTaskBarApp="#1A50B8"	# Defaults to using taskbuttonactive.xpm if present
+ActiveTaskBarFontNameXft="sans:size=10:bold"
+ColorActiveTaskBarAppText="#000000"
+
+#ColorNormalTaskBarApp="#3980F4"	# Defaults to using taskbuttonbg.xpm if present
+NormalTaskBarFontNameXft="sans:size=10"
+ColorNormalTaskBarAppText="#000000"
+
+#ColorMinimizedTaskBarApp="#3980F4"	# Defaults to using taskbuttonminimized.xpm if present
+MinimizedWindowFontNameXft="sans:size=10"
+ColorMinimizedTaskBarAppText="#000000"
+
+ColorApm="#000000"			# Background colour of APM monitor, ""=force transparency
+ApmFontNameXft="sans:size=10.5"
+ColorApmText="#FFFFFF"
+
+ColorNetIdle="#000000"			# Background colour of the network monitor, 
+ColorNetReceive="#FFFF00"		# Incoming load on the network monitor
+ColorNetSend="#00FF00"			# Outgoing load on the network monitor
+
+ColorCPUStatusIdle="#000000"		# Background colour of the CPU monitor, ""=force transparency
+ColorCPUStatusUser="#FF0000"		# User load on the CPU monitor
+ColorCPUStatusSystem="#C000C0"		# System load on the CPU monitor
+ColorCPUStatusNice="#000000"		# Nice load on the CPU monitor
+
+ColorClock=""				# Background colour, ""=force transparency
+ClockFontNameXft="sans:size=10.5"
+ColorClockText="#000000"
+
+
+# --------------------
+# Start Menu
+# --------------------
+ColorNormalMenu="#C5C5C5"		# Defaults to using menubg.xpm if present
+ColorActiveMenuItem="#C0C0C0"		# Defaults to using menusel.xpm if present
+
+MenuFontNameXft="sans:size=10"
+ColorActiveMenuItemText="#FFFFFF"
+ColorNormalMenuItemText="#000000"
+ColorDisabledMenuItemText="#B7B6B1"
+   
+
+# --------------------
+# QuickSwitch
+# --------------------
+ColorQuickSwitch="#FFFFFF"		# Background colour of the quick switch window
+
+QuickSwitchFontNameXft="sans:size=10"
+ColorQuickSwitchText="#000000"
+ColorQuickSwitchActive="#E29D5A"	# Background colour of selection bar
+
+
+# --------------------
+# Tooltip
+# --------------------
+ColorToolTip="#EAEAEA"			# Background colour of tooltips
+ToolTipFontNameXft="sans:size=10.5"
+ColorToolTipText="#000000"
+

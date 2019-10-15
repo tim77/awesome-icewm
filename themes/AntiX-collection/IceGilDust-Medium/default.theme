@@ -1,0 +1,125 @@
+ThemeDescription="IceVista 3"
+ThemeAuthor="Based on Jan Engelhardt's theme"
+Gradients= "menubg.xpm taskbuttonactive.xpm menusel.xpm"
+Look=flat
+
+RolloverButtonsSupported=1
+
+TitleButtonsLeft=""
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xim"
+#TitleButtonsSupported="xism"
+TitleBarHeight=22
+
+TitleBarJustify=50
+
+BorderSizeX=6
+BorderSizeY=6
+CornerSizeX=26
+CornerSizeY=26
+DlgBorderSizeX=6
+DlgBorderSizeY=6
+
+MenuMouseTracking=1 
+ShowMenuButtonIcon=1
+
+ColorNormalButton="rgb:40/40/40"
+ColorNormalButtonText="rgb:ff/ff/ff"
+ColorActiveButton="rgb:00/00/00"
+ColorActiveButtonText="rgb:ff/ff/ff"
+
+ColorNormalTitleBarText="rgb:7f/7f/7f"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarShadow="rgb:00/00/00"
+
+ColorActiveBorder="rgb:00/00/00"
+ColorNormalBorder="rgb:00/00/00"
+
+ColorDialog="rgb:00/00/00"
+ColorListBox="rgb:00/00/00"
+ColorListBoxText="rgb:ff/ff/ff"
+ColorListBoxSelection="rgb:33/72/bf"
+ColorListBoxSelectionText="rgb:ff/ff/ff"
+ColorScrollBar="rgb:00/00/00"
+ColorScrollBarSlider="rgb:00/00/00"
+ColorScrollBarButton="rgb:00/00/00"
+ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorLabel="rgb:00/00/00"
+ColorLabelText="rgb:ff/ff/ff"
+
+ColorNormalMenu="rgb:40/40/40"
+ColorActiveMenuItem="rgb:30/30/30"
+ColorNormalMenuItemText="rgb:ff/ff/ff"
+ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+ColorDefaultTaskBar="rgb:40/40/40"
+ColorNormalTaskBarApp="rgb:40/40/40"
+ColorNormalTaskBarAppText="rgb:ff/ff/ff"
+ColorInvisibleTaskBarApp="rgb:40/40/40"
+ColorInvisibleTaskBarAppText="rgb:ff/ff/ff"
+ColorActiveTaskBarApp="rgb:30/30/30"
+ColorActiveTaskBarAppText="rgb:ff/ff/ff"
+ColorMinimizedTaskBarApp="rgb:40/40/40"
+ColorMinimizedTaskBarAppText="rgb:ff/ff/ff"
+ColorNormalWorkspaceButton="rgb:40/40/40"
+ColorActiveWorkspaceButton="rgb:30/30/30"
+
+ColorInput="rgb:00/00/00"
+ColorInputText="rgb:ff/ff/ff"
+
+ColorClock=""
+ColorClockText="rgb:ff/ff/ff"
+
+ColorCPUStatusUser="rgb:4c/59/a6"
+ColorCPUStatusSystem="rgb:74/7c/b0"
+ColorCPUStatusNice="rgb:9d/a1/bc"
+# ColorCPUStatusIdle=""
+# silly icewm: ColorCPUStatusIdle="" doesn't work - it's transparent but the monitoring is screwed, so this is poor-man's pseudo-transparency instead :)
+ColorCPUStatusIdle="rgb:40/40/40"
+
+ColorNetSend="rgb:4c/59/a6"
+ColorNetReceive="rgb:9d/a1/bc"
+ColorNetIdle="40/40/40"
+
+ColorToolTip="rgb:00/00/00"
+ColorToolTipText="rgb:FF/FF/FF"
+
+ColorMoveSizeStatus="rgb:30/30/30"
+ColorMoveSizeStatusText="rgb:3b/9d/dc"
+
+ColorQuickSwitch="rgb:40/40/40"
+ColorQuickSwitchText="rgb:ff/ff/ff"
+
+# Font Specification
+TitleFontNameXft		=	sans:size=10:bold
+MenuFontNameXft			=	sans:size=11
+MinimizedWindowFontNameXft	=	sans:size=10:bold
+ActiveButtonFontNameXft		=	sans:size=11:bold
+NormalButtonFontNameXft		=	sans:size=11
+ToolButtonFontNameXft		=	sans:size=11
+NormalWorkspaceFontNameXft	=	sans:size=11
+ActiveWorkspaceFontNameXft	=	sans:size=11
+QuickSwitchFontNameXft		=	sans:size=11
+ListBoxFontNameXft		=	sans:size=11
+StatusFontNameXft		=	sans:size=11
+ToolTipFontNameXft		=	sans:size=11
+ActiveTaskBarFontNameXft	=	sans:size=11
+NormalTaskBarFontNameXft	=	sans:size=11
+ClockFontNameXft		=	sans:size=11
+InputFontNameXft		=	sans:size=11
+
+TaskBarClockLeds=0
+
+MenuIconSize=24		        # Menu
+SmallIconSize=24 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=32			# Quickswitch window
+HugeIconSize=48				# ?  Cannot identify what it applies to
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image

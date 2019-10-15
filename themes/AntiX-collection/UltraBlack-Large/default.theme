@@ -1,0 +1,128 @@
+ThemeAuthor="BlueScorpio_7"
+ThemeDescription="UltraBlack"
+
+Look="gtk"
+Gradients="menubg.xpm dialogbg.xpm"
+
+RolloverButtonsSupported=1
+TitleButtonsSupported="xmirs"
+TitleButtonsLeft="sr"
+TitleButtonsRight="xmi"
+TaskBarClockLeds=1
+
+BorderSizeX=3
+BorderSizeY=5
+DlgBorderSizeX=3
+DlgBorderSizeY=5
+CornerSizeX=24
+CornerSizeY=24
+TitleBarHeight=20
+TitleBarJustify=50
+ScrollBarX=16
+ScrollBarY=16
+
+
+
+#DialogBox
+ColorLabelText="rgb:FF/FF/FF"
+ColorDialog="rgb:00/00/00"
+ColorDialogSelectionText="rgb:FF/FF/FF"
+#Taskbar
+ColorDefaultTaskBar="rgb:00/00/00"
+ColorToolButton="rgb:00/00/00"
+ColorActiveButton="rgb:00/00/00"
+ColorNormalButton="rgb:00/00/00"
+ColorToolButtonText="rgb:FF/FF/FF"
+ColorNormalWorkspaceButtonText="rgb:FF/FF/FF"
+ColorActiveWorkspaceButtonText="rgb:FF/FF/FF"
+ColorNormalButtonText="rgb:FF/FF/FF"
+ColorActiveButtonText="rgb:FF/FF/FF"
+ColorActiveTaskBarApp="rgb:00/00/00"
+ColorActiveTaskBarAppText="rgb:FF/FF/FF"
+ColorMinimizedTaskBarApp="rgb:00/00/00"
+ColorMinimizedTaskBarAppText="rgb:FF/FF/FF"
+ColorNormalTaskBarApp="rgb:00/00/00"
+ColorNormalTaskBarAppText="rgb:FF/FF/FF"
+ColorInvisibleTaskBarAppText="rgb:FF/FF/FF"
+#Menu
+ColorActiveMenu="rgb:50/50/50"
+ColorNormalMenu="rgb:50/50/50"
+ColorNormalMenuItemText="rgb:FF/FF/FF"
+ColorActiveMenuItemText="rgb:FF/FF/FF"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorDisabledMenuItemShadow="rgb:80/80/80"
+#TitleBox
+ColorNormalBorder="rgb:00/00/00"
+ColorActiveBorder="rgb:00/00/00"
+ColorNormalTitleBarText="rgb:D9/D9/D9"
+ColorActiveTitleBarText="rgb:FF/FF/FF"
+#Move
+ColorMoveSizeStatus="rgb:00/00/00"
+ColorMoveSizeStatusText="rgb:FF/FF/FF"
+#Tooltip
+ColorToolTip="rgb:00/00/00"
+ColorToolTipText="rgb:FF/FF/FF"
+#QuickSwitch
+ColorQuickSwitch="rgb:00/00/00"
+ColorQuickSwitchText="rgb:FF/FF/FF"
+#ListBox
+ColorListBox="rgb:00/00/00"
+ColorListBoxText="rgb:FF/FF/FF"
+ColorListBoxSelection="rgb:90/00/00"
+ColorListBoxSelectionText="rgb:FF/FF/FF"
+#Label
+ColorLabel="rgb:00/00/00"
+ColorLabelText="rgb:FF/FF/FF"
+#Clock
+ColorClock="rgb:00/00/00"
+ColorClockText="rgb:FF/FF/FF"
+#CPUMonitor
+ColorCPUStatusUser="rgb:83/0C/0C"
+ColorCPUStatusSystem="rgb:E0/33/33"
+ColorCPUStatusInterrupts="rgb:FF/82/82"
+ColorCPUStatusIoWait="rgb:50/00/00"
+ColorCPUStatusSoftIrq="rgb:FF/AB/AB"
+ColorCPUStatusNice="rgb:FF/D3/00"
+#Net
+ColorNetSend="rgb:C4/00/00"
+ColorNetReceive="rgb:FF/00/00"
+#ScrollBar
+ColorScrollBar="rgb:70/70/70"
+ColorScrollBarButton="rgb:80/80/80"
+ColorScrollBarSlider="rgb:00/00/00"
+ColorScrollBarArrow="rgb:50/50/50"
+ColorScrollBarButtonArrow="rgb:70/70/70"
+ColorScrollBarInactiveArrow="rgb:50/50/50"
+
+# Font Specification
+TitleFontNameXft		=	sans:size=12:bold
+MenuFontNameXft			=	sans:size=14
+MinimizedWindowFontNameXft	=	sans:size=12:bold
+ActiveButtonFontNameXft		=	sans:size=14:bold
+NormalButtonFontNameXft		=	sans:size=14
+ToolButtonFontNameXft		=	sans:size=14
+NormalWorkspaceFontNameXft	=	sans:size=14
+ActiveWorkspaceFontNameXft	=	sans:size=14
+QuickSwitchFontNameXft		=	sans:size=14
+ListBoxFontNameXft		=	sans:size=14
+StatusFontNameXft		=	sans:size=14
+ToolTipFontNameXft		=	sans:size=14
+ActiveTaskBarFontNameXft	=	sans:size=14
+NormalTaskBarFontNameXft	=	sans:size=14
+ClockFontNameXft		=	sans:size=14
+InputFontNameXft		=	sans:size=14
+
+TaskBarClockLeds=0
+
+MenuIconSize=32		        # Menu
+SmallIconSize=32 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=48			# Quickswitch window
+HugeIconSize=64				# ?  Cannot identify what it applies to
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image

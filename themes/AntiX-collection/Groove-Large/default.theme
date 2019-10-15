@@ -1,0 +1,156 @@
+ThemeDescription="Groove" # inspired by Heylove's Aesthetic Groove Visual Style (http://heylove.deviantart.com)
+ThemeAuthor="urukrama"
+Look=flat
+
+RolloverButtonsSupported=1
+
+TitleButtonsLeft="r"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xmir"
+TitleBarHeight=18
+
+TitleBarJustify=50
+
+TaskBarAtTop=0
+
+BorderSizeX=1
+BorderSizeY=1
+CornerSizeX=24
+CornerSizeY=24
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+
+MenuMouseTracking=1 
+ShowMenuButtonIcon=1
+
+# theme specific colors
+
+### Titlebar and Borders ###
+ColorNormalTitleBarText="rgb:F2/F2/EA"
+ColorActiveTitleBarText="rgb:90/C8/C0"
+ColorActiveTitleBarShadow=""
+ColorNormalTitleBarShadow=""
+
+ColorActiveBorder="rgb:50/3A/20"
+ColorNormalBorder="rgb:50/3A/20"
+
+### Window List ###
+ColorDialog="rgb:F6/F6/F0"
+ColorListBox="rgb:F6/F6/F0"
+ColorListBoxText="rgb:53/3D/23"
+ColorListBoxSelection="rgb:53/3D/23"
+ColorListBoxSelectionText="rgb:90/C8/C0"
+ColorScrollBar="rgb:F2/F2/EA"
+ColorScrollBarSlider="rgb:50/3A/20"
+ColorScrollBarButton="rgb:F6/F6/F0"
+ColorScrollBarButtonArrow="rgb:50/3A/20"
+ColorLabel="rgb:F6/F6/F0"
+ColorLabelText="rgb:50/3A/20"
+
+### Alt-Tab ###
+ColorQuickSwitch="rgb:F2/F2/EA"
+ColorQuickSwitchText="rgb:53/3D/23"
+ColorQuickSwitchActive="rgb:53/3D/23"
+QuickSwitchFillSelection=1 # 0 / 1
+QuickSwitchSeparatorSize=0 # 0-30
+
+# Border size of quick-switch icons
+QuickSwitchIconBorder=2 # 0-30
+
+# Size of icon margins of quick-switch icons
+QuickSwitchIconMargin=5 # 0-30
+
+# Horizontal margin of quick-switch window
+QuickSwitchHorzMargin=3 # 0-30
+
+# Vertical margin of quick-switch window
+QuickSwitchVertMargin=3 # 0-30
+
+### Menu ###
+ColorNormalMenu="rgb:f6/f6/f0"
+ColorNormalMenuItemText="rgb:53/3D/23"
+ColorActiveMenuItem="rgb:53/3D/23"
+ColorActiveMenuItemText="rgb:90/C8/C0"
+ColorDisabledMenuItemText="rgb:CF/CF/BC"
+ColorDisabledMenuItemShadow=""
+
+### Taskbar ###
+ColorDefaultTaskBar="rgb:f6/f6/f0"
+ColorNormalTaskBarApp="rgb:f6/f6/f0"
+ColorNormalTaskBarAppText="rgb:53/3D/23"
+
+ColorActiveTaskBarApp="rgb:53/3D/23"
+ColorActiveTaskBarAppText="rgb:53/3D/23"
+
+ColorMinimizedTaskBarApp="rgb:F6/F6/F0"
+ColorMinimizedTaskBarAppText="rgb:53/3D/23"
+
+ColorInvisibleTaskBarApp="rgb:ac/d7/93"
+ColorInvisibleTaskBarAppText="rgb:50/50/50"
+
+TrayDrawBevel=0 # 0 / 1
+
+### Buttons ###
+ColorNormalButton="rgb:f6/f6/f0"
+ColorNormalButtonText="rgb:50/3A/20"
+ColorActiveButton="rgb:50/3A/20"
+ColorActiveButtonText="rgb:90/C8/C0"
+
+ColorNormalWorkspaceButton="rgb:F6/F6/F0"
+ColorActiveWorkspaceButton="rgb:F6/F6/F0"
+
+ColorInput="rgb:F2/F2/EA"
+ColorInputText="rgb:53/3D/23"
+
+ColorClock="rgb:F6/F6/F0"
+ColorClockText="rgb:53/3D/23"
+
+ColorCPUStatusUser="rgb:fd/d2/8f"
+ColorCPUStatusSystem="rgb:db/9a/56"
+ColorCPUStatusNice="rgb:ce/89/41"
+
+ColorNetSend="rgb:fd/d2/8f"
+ColorNetReceive="rgb:ce/89/41"
+
+# ColorCPUStatusIdle=""
+ColorCPUStatusIdle="rgb:cf/cf/cf"
+ColorNetIdle="rgb:cf/cf/cf"
+
+ColorToolTip="rgb:f6/f6/f0"
+ColorToolTipText="rgb:53/3D/23"
+
+ColorMoveSizeStatus="rgb:F2/F2/EA"
+ColorMoveSizeStatusText="rgb:53/3D/23"
+
+# Font Specification
+TitleFontNameXft		=	sans:size=12:bold
+MenuFontNameXft			=	sans:size=14
+MinimizedWindowFontNameXft	=	sans:size=12:bold
+ActiveButtonFontNameXft		=	sans:size=14:bold
+NormalButtonFontNameXft		=	sans:size=14
+ToolButtonFontNameXft		=	sans:size=14
+NormalWorkspaceFontNameXft	=	sans:size=14
+ActiveWorkspaceFontNameXft	=	sans:size=14
+QuickSwitchFontNameXft		=	sans:size=14
+ListBoxFontNameXft		=	sans:size=14
+StatusFontNameXft		=	sans:size=14
+ToolTipFontNameXft		=	sans:size=14
+ActiveTaskBarFontNameXft	=	sans:size=14
+NormalTaskBarFontNameXft	=	sans:size=14
+ClockFontNameXft		=	sans:size=14
+InputFontNameXft		=	sans:size=14
+
+TaskBarClockLeds=0
+
+MenuIconSize=32		        # Menu
+SmallIconSize=32 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=48			# Quickswitch window
+HugeIconSize=64				# ?  Cannot identify what it applies to
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image

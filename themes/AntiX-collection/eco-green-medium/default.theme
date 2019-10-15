@@ -1,0 +1,130 @@
+# Inspired by John H Baumgaertner's Baugmo collection
+# baugmo at pointedstick point org
+
+ThemeAuthor="OU812 & Impuwat"
+ThemeDescription="antiX Pumpkin"
+
+Gradients="menubg.xpm menusel.xpm workspacebuttonactive.xpm taskbuttonactive.xpm"
+Look=flat
+
+RolloverButtonsSupported=0 # 0 / 1
+TitleButtonsSupported="dhimrsx"
+# TitleButtonsLeft="d"
+# TitleButtonsRight="xsmi"
+
+#Colors
+
+ColorNormalBorder="#CCB8A9"
+ColorActiveBorder="#ccb8a9"
+ColorNormalButton="#000000"
+ColorNormalTitleBar="#CCB8A9"
+ColorActiveTitleBar="#CCB8A9"
+ColorNormalTitleBarText="rgb:cc/b8/a9"
+ColorActiveTitleBarText="#b6a699"
+
+ColorNormalMenu="#4C3C32"
+ColorActiveMenuItem="#4c3c32"
+ColorNormalMenuItemText="#B6A699"
+ColorActiveMenuItemText="#000000"
+ColorDisabledMenuItemText="#665D56"
+ColorDisabledMenuItemShadow="rgb:d6/d6/d6"
+
+ColorMoveSizeStatus="#CCB8A9"
+ColorMoveSizeStatusText="#000000"
+ColorScrollBar="#EAEAEA"
+ColorScrollBarSlider="#EAEAEA"
+ColorScrollBarButton="#EAEAEA"
+ColorScrollBarButtonArrow="#000000"
+
+ColorActiveTitleBarText="rgb:e6/e6/e6"
+ColorNormalTitleBarText="rgb:cc/b8/a9"
+ColorActiveTitleBarShadow="rgb:00/00/00"
+ColorNormalTitleBarShadow="rgb:00/00/00"
+ColorDialog="rgb:d6/d6/d6"
+ColorLabel="rgb:d6/d6/d6"
+
+ColorQuickSwitch="rgb:d6/d6/d6"
+ColorQuickSwitchText="rgb:00/00/00"
+ColorQuickSwitchActive="rgb:55/66/88"
+
+ColorListBox="rgb:d6/d6/d6"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:55/66/88"
+ColorListBoxSelectionText="rgb:ff/ff/ff"
+
+ColorClock=""
+ColorClockText="#b6a699"
+
+ColorCPUStatusUser="#FF8C00"
+ColorCPUStatusSystem="#C000C0"
+ColorCPUStatusNice="#000000"
+ColorCPUStatusIdle="#8A7E74"
+ColorNetSend="#00FF00"
+ColorNetReceive="#66FF00"
+ColorNetIdle="#8A7E74"
+
+ColorToolTip="#FFE28A"
+ColorToolTipText="#323232"
+
+ColorInput="#BAA89A"
+ColorInputText="#000000"
+ColorInputSelection="rgb:55/66/88"
+ColorInputSelectionText="rgb:ff/ff/ff"
+
+ColorNormalWorkspaceButtonText="rgb:00/00/00"
+ColorActiveWorkspaceButtonText="rgb:00/00/00"
+
+ColorDefaultTaskBar="#4C3C32"
+ColorNormalTaskBarApp="#4C3C32"
+ColorNormalTaskBarAppText="#CCB8A9"
+ColorActiveTaskBarApp="#8A7E74"
+ColorActiveTaskBarAppText="#000000"
+ColorMinimizedTaskBarApp="#CCB8A9"
+ColorMinimizedTaskBarAppText="#ccb8a9"
+
+# Font Specification
+TitleFontNameXft		=	sans:size=10:bold
+MenuFontNameXft			=	sans:size=11
+MinimizedWindowFontNameXft	=	sans:size=10:bold
+ActiveButtonFontNameXft		=	sans:size=11:bold
+NormalButtonFontNameXft		=	sans:size=11
+ToolButtonFontNameXft		=	sans:size=11
+NormalWorkspaceFontNameXft	=	sans:size=11
+ActiveWorkspaceFontNameXft	=	sans:size=11
+QuickSwitchFontNameXft		=	sans:size=11
+ListBoxFontNameXft		=	sans:size=11
+StatusFontNameXft		=	sans:size=11
+ToolTipFontNameXft		=	sans:size=11
+ActiveTaskBarFontNameXft	=	sans:size=11
+NormalTaskBarFontNameXft	=	sans:size=11
+ClockFontNameXft		=	sans:size=11
+InputFontNameXft		=	sans:size=11
+
+TaskBarClockLeds=0
+#Sizes
+
+TitleBarHeight=20 # 0-128
+TitleBarHorzOffset=5 # -128-128
+
+BorderSizeX=1 # 0-128
+BorderSizeY=3 # 0-128
+CornerSizeX=26 # 0-64
+CornerSizeY=26 # 0-64
+
+DlgBorderSizeX=1 # 0-128
+DlgBorderSizeY=3 # 0-128
+
+ShapesProtectClientWindow=1 # 0 / 1
+
+MenuIconSize=24		        # Menu
+SmallIconSize=24 			# Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
+LargeIconSize=32			# Quickswitch window
+HugeIconSize=48				# ?  Cannot identify what it applies to
+ShowMenuButtonIcon=0			# Show application icon on menuButton
+
+# --------------------
+# Desktop
+# --------------------
+DesktopBackgroundImage=""		# Prevent IceWM showing a background image
+DesktopBackgroundColor=""		# Prevent IceWM showing a background colour
+#DesktopBackgroundCenter=1		# 0=tile 1=fill screen with single image

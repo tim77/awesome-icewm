@@ -1,0 +1,10 @@
+/* XPM */
+static char *menusep[] = {
+/* columns rows colors chars-per-pixel */
+"45 2 2 1",
+"  c gray79",
+". c #F9F9F9",
+/* pixels */
+"                                             ",
+"............................................."
+};
