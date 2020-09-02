@@ -1,10 +1,10 @@
 # WIP
 
-ThemeName =         "Ice Adwaita"
-ThemeDescription =  "Adwaita GTK theme for IceWM. Based on 'IceClearlooks2-Magi'"
-ThemeAuthor =       "Artem Polishchuk <ego.cordatus@gmail.com>"
-License =           "GPL-3.0"
-Look =              metal
+ThemeName = "Ice Adwaita"
+ThemeDescription = "Adwaita GTK theme for IceWM. Based on 'IceClearlooks2-Magi'"
+ThemeAuthor = "Artem Polishchuk <ego.cordatus@gmail.com>"
+License = "GPL-3.0"
+Look = metal
 
 BorderSizeX = 3
 BorderSizeY = 3
@@ -18,45 +18,45 @@ TitleBarJustify = 50
 TitleBarVertOffset = -1
 TitleButtonsSupported = "xmis"
 
-MenuIconSize =  24
-SmallIconSize = 24          # Taskbar & Titlebar. Taskbar height = height of linux.xpm. Titlebar height = TitleBarHeight in *.theme
-LargeIconSize = 32          # Quickswitch window
-HugeIconSize =  48
+MenuIconSize = 24
+SmallIconSize = 24  # Taskbar & Titlebar.  Taskbar height = height of linux.xpm.  Titlebar height = TitleBarHeight in *.theme
+LargeIconSize = 32  # Quickswitch window
+HugeIconSize = 48
 ShowMenuButtonIcon = 0
 
-ColorNormalMenu =           "rgb:ff/ff/fe"
-ColorActiveMenuItemText =   "rgb:ff/ff/ff"
+ColorNormalMenu = "rgb:ff/ff/fe"
+ColorActiveMenuItemText = "rgb:ff/ff/ff"
 ColorDisabledMenuItemText = "rgb:a6/a5/a5"
 
-ColorNormalButton =                 "rgb:ed/ec/eb"
-ColorNormalButtonText =             "rgb:1a/1a/1a"
-ColorActiveButton =                 "rgb:1a/1a/1a"
-ColorNormalWorkspaceButton =        "rgb:ed/ec/eb"
-ColorNormalWorkspaceButtonText =    "black"
-ColorActiveWorkspaceButton =        "rgb:ed/ec/eb"
-ColorDefaultTaskBar =               "#f4f3f3"
-ColorNormalTaskBarApp =             "rgb:ed/ec/eb"
-ColorNormalTaskBarAppText =         "rgb:1a/1a/1a"
-ColorActiveTaskBarApp =             "rgb:ed/ec/eb"
-ColorActiveTaskBarAppText =         "black"
-ColorMinimizedTaskBarApp =          "rgb:ed/ec/eb"
-ColorMinimizedTaskBarAppText =      "rgb:1a/1a/1a"
-ColorInvisibleTaskBarApp =          "rgb:ed/ec/eb"
-ColorInvisibleTaskBarAppText =      "rgb:6b/6a/6a"
+ColorNormalButton = "rgb:ed/ec/eb"
+ColorNormalButtonText = "rgb:1a/1a/1a"
+ColorActiveButton = "rgb:1a/1a/1a"
+ColorNormalWorkspaceButton = "rgb:ed/ec/eb"
+ColorNormalWorkspaceButtonText = "black"
+ColorActiveWorkspaceButton = "rgb:ed/ec/eb"
+ColorDefaultTaskBar = "#f4f3f3"
+ColorNormalTaskBarApp = "rgb:ed/ec/eb"
+ColorNormalTaskBarAppText = "rgb:1a/1a/1a"
+ColorActiveTaskBarApp = "rgb:ed/ec/eb"
+ColorActiveTaskBarAppText = "black"
+ColorMinimizedTaskBarApp = "rgb:ed/ec/eb"
+ColorMinimizedTaskBarAppText = "rgb:1a/1a/1a"
+ColorInvisibleTaskBarApp = "rgb:ed/ec/eb"
+ColorInvisibleTaskBarAppText = "rgb:6b/6a/6a"
 
 ColorActiveWorkspaceButtonText = "black"
 
-ColorMoveSizeStatus =       "#3584e4"
-ColorMoveSizeStatusText =   "#FFFFFE"
+ColorMoveSizeStatus = "#3584e4"
+ColorMoveSizeStatusText = "#FFFFFE"
 
-ColorToolTip =                  "rgb:f5/f5/b5"
-ColorNetReceive =               "rgb:00/ff/00"
-ColorNetSend =                  "rgb:ff/00/00"
-ColorCPUStatusIoWait =          "rgb:ff/00/ff"
-ColorMEMStatusFree =            "black"
-ColorMEMStatusCached =          "#304e8d"
-ColorMEMStatusUser =            "#2854b0"
-ColorMEMStatusBuffers =         "#444444"
+ColorToolTip = "rgb:f5/f5/b5"
+ColorNetReceive = "rgb:00/ff/00"
+ColorNetSend = "rgb:ff/00/00"
+ColorCPUStatusIoWait = "rgb:ff/00/ff"
+ColorMEMStatusFree = "black"
+ColorMEMStatusCached = "#304e8d"
+ColorMEMStatusUser = "#2854b0"
+ColorMEMStatusBuffers = "#444444"
 
 ColorApm = ""
 ColorApmText = "rgb:1a/1a/1a"
@@ -67,54 +67,53 @@ ColorClockText = "rgb:1a/1a/1a"
 ColorActiveTitleBarShadow = "black"
 ColorNormalTitleBarText = "rgb:6b/6a/6a"
 
-ColorNormalMinimizedWindow =        "rgb:ed/ec/eb"
-ColorNormalMinimizedWindowText =    "rgb:1a/1a/1a"
-ColorActiveMinimizedWindow =        "rgb:86/ab/d9"
-ColorActiveMinimizedWindowText =    "rgb:ff/ff/ff"
+ColorNormalMinimizedWindow = "rgb:ed/ec/eb"
+ColorNormalMinimizedWindowText = "rgb:1a/1a/1a"
+ColorActiveMinimizedWindow = "rgb:86/ab/d9"
+ColorActiveMinimizedWindowText = "rgb:ff/ff/ff"
 
 ColorQuickSwitch = "rgb:f9/f8/f7"
 ColorQuickSwitchActive = "#3584e4"
 
-ColorListBox =              "rgb:ff/ff/fe"
-ColorListBoxSelection =     "#3584e4"
+ColorListBox = "rgb:ff/ff/fe"
+ColorListBoxSelection = "#3584e4"
 ColorListBoxSelectionText = "rgb:ff/ff/ff"
 
-ColorDialog =   "rgb:ff/ff/fe"
-ColorLabel =    "rgb:ff/ff/fe"
+ColorDialog = "rgb:ff/ff/fe"
+ColorLabel = "rgb:ff/ff/fe"
 
-ColorInput =                "rgb:ff/ff/fe"
-ColorInputText =            "rgb:1a/1a/1a"
-ColorInputSelection =       "rgb:86/ab/d9"
-ColorInputSelectionText =   "rgb:ff/ff/ff"
+ColorInput = "rgb:ff/ff/fe"
+ColorInputText = "rgb:1a/1a/1a"
+ColorInputSelection = "rgb:86/ab/d9"
+ColorInputSelectionText = "rgb:ff/ff/ff"
 
 ScrollBarX = 15
 ScrollBarY = 15
-ColorScrollBar =                "rgb:d5/d4/d4"
-ColorScrollBarSlider =          "rgb:86/ab/d9"
-ColorScrollBarButton =          "rgb:ed/ec/eb"
-ColorScrollBarInactiveArrow =   "rgb:a6/a5/a5"
+ColorScrollBar = "rgb:d5/d4/d4"
+ColorScrollBarSlider = "rgb:86/ab/d9"
+ColorScrollBarButton = "rgb:ed/ec/eb"
+ColorScrollBarInactiveArrow = "rgb:a6/a5/a5"
 
-DesktopBackgroundColor =    "#3584e4"
+DesktopBackgroundColor = "#3584e4"
 # DesktopBackgroundCenter = 1 # 0 / 1
-DesktopBackgroundScaled =   1 # 0 / 1
-DesktopBackgroundImage =    "/usr/share/backgrounds/icewm-wallpaper.png"
+DesktopBackgroundScaled = 1 # 0 / 1
+DesktopBackgroundImage = "/usr/share/backgrounds/gnome/adwaita-day.jpg"
 
-ActiveButtonFontNameXft =       Cantarell:size=11
-ActiveTaskBarFontNameXft =      Cantarell:size=11
-ActiveWorkspaceFontNameXft =    Cantarell:size=11
-ApmFontNameXft =                Cantarell:size=11
-ClockFontNameXft =              Cantarell:size=11
-InputFontNameXft =              Cantarell:size=11
-LabelFontNameXft =              Cantarell:size=11
-ListBoxFontNameXft =            Cantarell:size=11
-MenuFontNameXft =               Cantarell:size=11
-MinimizedWindowFontNameXft =    Cantarell:size=11
-NormalButtonFontNameXft =       Cantarell:size=11
-NormalTaskBarFontNameXft =      Cantarell:size=11
-NormalWorkspaceFontNameXft =    Cantarell:size=11
-QuickSwitchFontNameXft =        Cantarell:size=11
-StatusFontNameXft =             Cantarell:size=11
-TitleFontNameXft =              Cantarell:size=11:bold
-ToolButtonFontNameXft =         Cantarell:size=11
-ToolTipFontNameXft =            Cantarell:size=11
-
+ActiveButtonFontNameXft = Cantarell:size=11
+ActiveTaskBarFontNameXft = Cantarell:size=11
+ActiveWorkspaceFontNameXft = Cantarell:size=11
+ApmFontNameXft = Cantarell:size=11
+ClockFontNameXft = Cantarell:size=11
+InputFontNameXft = Cantarell:size=11
+LabelFontNameXft = Cantarell:size=11
+ListBoxFontNameXft = Cantarell:size=11
+MenuFontNameXft = Cantarell:size=11
+MinimizedWindowFontNameXft = Cantarell:size=11
+NormalButtonFontNameXft = Cantarell:size=11
+NormalTaskBarFontNameXft = Cantarell:size=11
+NormalWorkspaceFontNameXft = Cantarell:size=11
+QuickSwitchFontNameXft = Cantarell:size=11
+StatusFontNameXft = Cantarell:size=11
+TitleFontNameXft = Cantarell:size=11:bold
+ToolButtonFontNameXft = Cantarell:size=11
+ToolTipFontNameXft = Cantarell:size=11
