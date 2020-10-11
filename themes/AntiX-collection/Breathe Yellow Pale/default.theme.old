@@ -1,0 +1,112 @@
+ThemeDescription="IceBuntu"
+ThemeAuthor="Ilya Yakubovich"
+Look=metal
+
+RolloverButtonsSupported=1
+
+TitleButtonsLeft=""
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xism"
+TitleBarHeight=24
+
+TitleBarJustify=50
+
+TaskBarAtTop=1
+
+BorderSizeX=6
+BorderSizeY=6
+CornerSizeX=26
+CornerSizeY=26
+DlgBorderSizeX=6
+DlgBorderSizeY=6
+
+MenuMouseTracking=1 
+ShowMenuButtonIcon=1
+
+ColorNormalButton="rgb:f1/ee/eb"
+ColorNormalButtonText="rgb:00/00/00"
+ColorActiveButton="rgb:4c/59/a6"
+ColorActiveButtonText="rgb:00/00/00"
+
+ColorNormalTitleBarText="rgb:7f/7f/7f"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorActiveTitleBarShadow="rgb:20/20/20"
+
+ColorActiveBorder="rgb:73/6a/60"
+ColorNormalBorder="rgb:73/6a/60"
+
+ColorDialog="rgb:e6/e6/e6"
+ColorListBox="rgb:e6/e6/e6"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:4c/59/a6"
+ColorListBoxSelectionText="rgb:ff/ff/ff"
+ColorScrollBar="rgb:c3/c3/c3"
+ColorScrollBarSlider="rgb:e6/e6/e6"
+ColorScrollBarButton="rgb:e6/e6/e6"
+ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorLabel="rgb:e6/e6/e6"
+ColorLabelText="rgb:4c/59/a6"
+
+ColorNormalMenu="rgb:ef/eb/e7"
+ColorActiveMenuItem="rgb:f6/f4/f2"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItemText="rgb:00/00/00"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+ColorDefaultTaskBar="rgb:f6/f4/f2"
+ColorNormalTaskBarApp="rgb:f6/f4/f2"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorInvisibleTaskBarApp="rgb:f6/f4/f2"
+ColorInvisibleTaskBarAppText="rgb:50/50/50"
+ColorActiveTaskBarApp="rgb:f6/f4/f2"
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorMinimizedTaskBarApp="rgb:f6/f4/f2"
+ColorMinimizedTaskBarAppText="rgb:50/50/50"
+ColorNormalWorkspaceButton="rgb:f6/f4/f2"
+ColorActiveWorkspaceButton="rgb:f6/f4/f2"
+
+ColorInput="rgb:e6/e6/e6"
+ColorInputText="rgb:00/00/00"
+
+ColorClock=""
+ColorClockText="rgb:00/00/00"
+
+ColorCPUStatusUser="rgb:4c/59/a6"
+ColorCPUStatusSystem="rgb:74/7c/b0"
+ColorCPUStatusNice="rgb:9d/a1/bc"
+# ColorCPUStatusIdle=""
+# silly icewm: ColorCPUStatusIdle="" doesn't work - it's transparent but the monitoring is screwed, so this is poor-man's pseudo-transparency instead :)
+ColorCPUStatusIdle="rgb:cf/cf/cf"
+
+ColorNetSend="rgb:4c/59/a6"
+ColorNetReceive="rgb:9d/a1/bc"
+ColorNetIdle=""
+
+ColorToolTip="rgb:ff/ff/e1"
+ColorToolTipText="rgb:00/00/00"
+
+ColorMoveSizeStatus="rgb:ce/ce/ce"
+ColorMoveSizeStatusText="rgb:00/00/00"
+
+ColorQuickSwitch="rgb:ce/ce/ce"
+ColorQuickSwitchText="rgb:00/00/00"
+
+# Font Specification
+TitleFontNameXft		=	sans-serif:size=9:bold
+MenuFontNameXft			=	sans-serif:size=9
+MinimizedWindowFontNameXft	=	sans-serif:size=9
+ActiveButtonFontNameXft		=	sans-serif:size=9
+NormalButtonFontNameXft		=	sans-serif:size=9
+ToolButtonFontNameXft		=	sans-serif:size=9
+NormalWorkspaceFontNameXft	=	sans-serif:size=9
+ActiveWorkspaceFontNameXft	=	sans-serif:size=9
+QuickSwitchFontNameXft		=	sans-serif:size=9
+ListBoxFontNameXft		=	sans-serif:size=9
+StatusFontNameXft		=	sans-serif:size=9
+ToolTipFontNameXft		=	sans-serif:size=9
+ActiveTaskBarFontNameXft	=	sans-serif:size=9
+NormalTaskBarFontNameXft	=	sans-serif:size=9
+ClockFontNameXft		=	sans-serif:size=9
+InputFontNameXft		=	sans-serif:size=9
+
+TaskBarClockLeds=0

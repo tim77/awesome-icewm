@@ -1,0 +1,43 @@
+IceBuntu Theme for IceWM v1.0.0
+
+Copyright © 2006, Ilya Yakubovich (ilya.yakubovich@gmail.com)
+Graphics are all official Ubuntu artwork
+Based on the TrueCurve theme by Owen Marshall
+Icons and other graphics are copyrighted by Canonical Ltd.
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+
+Contents
+
+1.  Introduction
+2.  Installation
+3.  Contact info / links
+
+
+
+1.  Introduction
+
+The goal of this theme is to make IceWM look as much like Ubuntu's release 'Dapper Drake'. This includes Ubuntu's titlebars and buttons, colours, and a few icons. 
+
+
+2.  Installation
+
+This directory ("IceBuntu") should be copied to your IceWM theme directory, usually /usr/share/icewm/themes. The "icons" directory that comes with this theme includes icons you can use in your menus and toolbar. They are taken from the tango project, and most of them represent the different categories for your menu. As of this date, the Gnome menu has the following submenus: Accessories, Graphics, Internet, Office, Multimedia and System Tools.
+
+
+3.  Contact info / links
+
+You can obtain the latest IceWM source from
+
+	http://sourceforge.net/projects/icewm/
+
+and the latest version of this theme from
+
+	http://freshmeat.net/projects/icebuntu/
+
+Any queries/suggestions mail to ilya.yakubovich@gmail.com

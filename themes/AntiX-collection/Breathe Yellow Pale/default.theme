@@ -1,0 +1,148 @@
+ThemeDescription="Breathe"
+ThemeAuthor="urukrama"
+Look=flat
+
+RolloverButtonsSupported=1
+
+TitleButtonsLeft=""
+TitleButtonsRight="xmi"
+TitleButtonsSupported="xim"
+#TitleButtonsSupported="xism"
+TitleBarHeight=20
+
+TitleBarJustify=50
+
+### Borders ###
+BorderSizeX=1
+BorderSizeY=1
+CornerSizeX=20
+CornerSizeY=20
+DlgBorderSizeX=1
+DlgBorderSizeY=1
+
+ColorNormalTitleBarText="rgb:8f/8f/8f"
+ColorActiveTitleBarText="rgb:ff/ff/ff"
+ColorNormalTitleBarShadow=""
+ColorActiveTitleBarShadow=""
+
+ColorActiveBorder="rgb:05/06/0A"
+ColorNormalBorder="rgb:05/06/0A"
+
+### Menu ###
+MenuMouseTracking=1 
+ShowMenuButtonIcon=0
+
+ColorNormalMenu="rgb:ff/ff/ff"
+ColorActiveMenuItem="rgb:05/06/0A"
+ColorNormalMenuItemText="rgb:05/06/0A"
+# ColorActiveMenuItemText="rgb:ff/ff/ff"
+ColorActiveMenuItemText="rgb:00/00/00"
+ColorDisabledMenuItemText="rgb:80/80/80"
+
+### Window List ###
+ColorDialog="rgb:ff/ff/ff"
+ColorListBox="rgb:ff/ff/ff"
+ColorListBoxText="rgb:05/06/0A"
+ColorListBoxSelection="rgb:05/06/0A"
+ColorListBoxSelectionText="rgb:ff/ff/ff"
+ColorScrollBar="rgb:05/06/0A"
+ColorScrollBarSlider="rgb:ff/ff/ff"
+ColorScrollBarButton="rgb:ff/ff/ff"
+ColorScrollBarButtonArrow="rgb:05/06/0A"
+ColorLabel="rgb:ff/ff/ff"
+ColorLabelText="rgb:05/06/0A"
+
+
+### Alt-tab ###
+ColorQuickSwitch="rgb:ff/ff/ff"
+ColorQuickSwitchText="rgb:05/06/0A"
+ColorQuickSwitchActive="rgb:05/06/0A"
+QuickSwitchFillSelection=1 # 0 / 1
+QuickSwitchSeparatorSize=1 # 0-30
+
+# Border size of quick-switch icons
+QuickSwitchIconBorder=2 # 0-30
+
+# Size of icon margins of quick-switch icons
+QuickSwitchIconMargin=5 # 0-30
+
+# Horizontal margin of quick-switch window
+QuickSwitchHorzMargin=3 # 0-30
+
+# Vertical margin of quick-switch window
+QuickSwitchVertMargin=3 # 0-30
+
+### Buttons ###
+ColorNormalButton="rgb:ff/ff/ff"
+ColorNormalButtonText="rgb:05/06/0A"
+ColorActiveButton="rgb:05/06/0A"
+ColorActiveButtonText="rgb:05/06/0A"
+
+ColorNormalWorkspaceButton="rgb:f6/f4/f2"
+ColorActiveWorkspaceButton="rgb:f6/f4/f2"
+
+### Taskbar ###
+TaskBarAtTop=0
+
+ColorDefaultTaskBar="rgb:ff/ff/ff"
+ColorNormalTaskBarApp="rgb:ff/ff/ff"
+ColorNormalTaskBarAppText="rgb:8f/8f/8f"
+ColorInvisibleTaskBarApp="rgb:ff/ff/ff"
+ColorInvisibleTaskBarAppText="rgb:50/50/50"
+ColorActiveTaskBarApp="rgb:05/06/0A"
+ColorActiveTaskBarAppText="rgb:ff/ff/ff"
+ColorMinimizedTaskBarApp="rgb:ff/ff/ff"
+ColorMinimizedTaskBarAppText="rgb:8f/8f/8f"
+
+ColorInput="rgb:ff/ff/ff"
+ColorInputText="rgb:05/06/0A"
+
+ColorClock="rgb:05/06/0A"
+ColorClockText="rgb:ff/ff/ff"
+
+ColorCPUStatusUser="rgb:05/06/0A"
+ColorCPUStatusSystem="rgb:74/7c/b0"
+ColorCPUStatusNice="rgb:9d/a1/bc"
+# ColorCPUStatusIdle=""
+ColorCPUStatusIdle="rgb:cf/cf/cf"
+
+ColorNetSend="rgb:05/06/0A"
+ColorNetReceive="rgb:9d/a1/bc"
+ColorNetIdle=""
+
+ColorToolTip="rgb:ff/ff/ff"
+ColorToolTipText="rgb:05/06/0A"
+
+ColorMoveSizeStatus="rgb:ff/ff/ff"
+ColorMoveSizeStatusText="rgb:05/06/0A"
+
+ColorNormalWorkspaceButton ="rgb:50/50/50"
+ColorNormalWorkspaceButtonText ="rgb:8f/8f/8f"
+ColorActiveWorkspaceButton="rgb:50/50/50"
+# ColorActiveWorkspaceButtonText="rgb:ff/ff/ff"
+ColorActiveWorkspaceButtonText="rgb:ff/cb/00"
+
+# Font Specification
+TitleFontNameXft		=	HeldustryFTVBasicBlack:size=10
+# TitleFontNameXft		=	Philosopher-Bold:size=10
+MenuFontNameXft			=	sans-serif:size=10
+MinimizedWindowFontNameXft	=	sans-serif:size=10
+ActiveButtonFontNameXft		=	sans-serif:size=10
+NormalButtonFontNameXft		=	sans-serif:size=10
+ToolButtonFontNameXft		=	sans-serif:size=10
+NormalWorkspaceFontNameXft	=	sans-serif:size=10
+ActiveWorkspaceFontNameXft	=	sans-serif:size=10
+QuickSwitchFontNameXft		=	HeldustryFTVBasicBlack:size=10
+# QuickSwitchFontNameXft		=	Philosopher-Bold:size=10
+ListBoxFontNameXft		=	sans-serif:size=10
+StatusFontNameXft		=	sans-serif:size=10
+ToolTipFontNameXft		=	sans-serif:size=10
+ActiveTaskBarFontNameXft	=	HeldustryFTVBasicBlack:size=10
+# ActiveTaskBarFontNameXft	=	Philosopher-Bold:size=10
+NormalTaskBarFontNameXft	=	HeldustryFTVBasicBlack:size=10
+# NormalTaskBarFontNameXft	=	Philosopher-Bold:size=10
+ClockFontNameXft		=	HeldustryFTVBasicBlack:size=10
+# ClockFontNameXft		=	Philosopher-Bold:size=10
+InputFontNameXft		=	sans-serif:size=10
+
+TaskBarClockLeds=0

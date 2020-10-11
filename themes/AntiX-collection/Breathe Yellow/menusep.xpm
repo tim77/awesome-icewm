@@ -1,0 +1,8 @@
+/* XPM */
+static char * menusep_xpm[] = {
+"1 2 3 1",
+" 	c None",
+".	c #BEB290",
+"+	c #FFFFFF",
+".",
+"+"};
